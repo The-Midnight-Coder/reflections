@@ -1,0 +1,1 @@
+1) When you initialize a repository, a .git directory is created.  You need to manually make the first commit.

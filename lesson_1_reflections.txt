@@ -1,0 +1,11 @@
+1. Viewing the diff allowed me to see what had changed.  The -u option was a revelation.
+
+2. Being able to easily roll back will make undoing negative changes a much faster process.
+
+3. Manual commits allow fine grained control over what is included in any given commit. Changes could be missed by human error, though.
+
+4. Git allows multiple file saves because file changes can affect each other within a project.  Google docs is simply a file storage utility.
+
+5. git log allows an overview of commits.  git diff allows you to compare two commits.
+
+6. I will use Git for a Project-XXX
