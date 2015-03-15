@@ -1,1 +1,3 @@
 1) When you initialize a repository, a .git directory is created.  You need to manually make the first commit.
+
+2) Working area is the actual directory on your machine.  The staging area is a logical queue for files that will be committed.  The repository is a logical structure that contains files that have been commited.
