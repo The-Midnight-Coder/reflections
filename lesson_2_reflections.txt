@@ -7,3 +7,5 @@
 4) Branches could be useful for adding experimental features, new options like languages, or entirely different feature sets.  Once the feature is stable, the branch can be merged back into the main branch if so desired.
 
 5) Diagrams help visualize branch structure by making it easy to see relationships between commits and view any unreachable commits.
+
+6) Gits auto merging is helpful when there are no conflicts.  When conflicts exist, the user must manually resolve them.
