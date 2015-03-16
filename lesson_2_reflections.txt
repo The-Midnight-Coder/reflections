@@ -5,3 +5,5 @@
 3) The staging area can be used to make sure you have one commit per logical change by staging the file(s) after each logical change is made.
 
 4) Branches could be useful for adding experimental features, new options like languages, or entirely different feature sets.  Once the feature is stable, the branch can be merged back into the main branch if so desired.
+
+5) Diagrams help visualize branch structure by making it easy to see relationships between commits and view any unreachable commits.
