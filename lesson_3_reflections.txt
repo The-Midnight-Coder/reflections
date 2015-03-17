@@ -1,0 +1,1 @@
+1) Remote repositories are helpful when multiple people need to collaborate on a project.
